@@ -15,13 +15,14 @@ Ad architecto a doloremque odio eaque modi earum pariatur laborum nobis amet sun
 * Telefono: 22-82-66-19-89
 
 ## Formación académica
-- Finder
-- Redes de datos
-- Técnico en seguridad informática
-- Técnico en instalación y reparación de equipo de cómputo
-- Técnico en informática (Ofimática)
-- Técnico en sistemas informáticos
-- Capacitación en TICs
+**Secundaria:** Escuela Secundaria Técnica Industrial #97
 
-## Habilidades en el Desarrollo
-- 
+     Técnica en electrónica
+
+**Bachillerato:** Bachillerato Experimiental
+
+    Finder
+    Técnica en sistemas informáticos
+    Capacitación en TICs
+
+**Universidad:** Universidad Veracruzana
