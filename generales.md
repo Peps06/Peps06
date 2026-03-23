@@ -26,3 +26,5 @@ Ad architecto a doloremque odio eaque modi earum pariatur laborum nobis amet sun
     Capacitación en TICs
 
 **Universidad:** Universidad Veracruzana
+
+<!--comentario-->
